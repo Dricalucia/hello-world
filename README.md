@@ -1,9 +1,8 @@
 # hello-world
 Canal de aprendizado do Git-Github
 
+**Nome:** Adriana Lúcia
 
-**Nome:** Adria 
-
-**Curso:** Ciência da Computação
+**Curso:** Ciencia da Computação
 
 
