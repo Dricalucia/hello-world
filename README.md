@@ -2,5 +2,8 @@
 Canal de aprendizado do Git-Github
 
 
-**Nome:** Adriana
+**Nome:** Adria 
+
 **Curso:** Ciência da Computação
+
+
