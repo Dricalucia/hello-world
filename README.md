@@ -5,4 +5,4 @@ Canal de aprendizado do Git-Github
 
 **Curso:** Ciencia da Computação
 
-
+**Turma:** 2022.2
